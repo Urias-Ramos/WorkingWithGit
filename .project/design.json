@@ -1,0 +1,15 @@
+{
+  "Tags": [
+    {
+      "Key": "#helloworld"
+    },
+    {
+      "Key": "#uipath"
+    },
+    {
+      "Key": "#new"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true
+}
